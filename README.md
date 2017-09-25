@@ -11,4 +11,4 @@ Usually each file in `src` folder is standalone and can be run via
 
 ## Algorithms implemented
 
-* Bubble Sort
+* [Bubble Sort (Optimized & Non-optimized Versions)](./src/bubble-sort.js)
