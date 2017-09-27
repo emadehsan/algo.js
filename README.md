@@ -1,5 +1,5 @@
 # Algo.js
-Computer Science algorithms and problems implementation in JavaScript
+Computer Science algorithms and problems implementation in JavaScript. With each algorithm, a simple description is written in it's file as comments.
 
 ## Getting Started
 
@@ -13,3 +13,4 @@ Usually each file in `src` folder is standalone and can be run via
 
 * [Bubble Sort (Optimized & Non-optimized Versions)](./src/bubble-sort.js)
 * [Selection Sort (Optimized & Non-optimized)](./src/selection-sort.js)
+* [Insertion Sort](./src/insertion-sort.js)
