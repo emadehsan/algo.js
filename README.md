@@ -11,6 +11,8 @@ Usually each file in `src` folder is standalone and can be run via
 
 ## Algorithms implemented
 
+### Sorting
 * [Bubble Sort (Optimized & Non-optimized Versions)](./src/bubble-sort.js)
 * [Selection Sort (Optimized & Non-optimized)](./src/selection-sort.js)
 * [Insertion Sort](./src/insertion-sort.js)
+* [Merge Sort (incomplete)](./src/temp.js)
